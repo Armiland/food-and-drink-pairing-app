@@ -1,0 +1,382 @@
+[
+    {
+        "Flavour": "Chocolate (sweetened)",
+        "See": "milk chocolate, chocolate mousse, chocolate cake",
+        "Wine": "French Merlot",
+        "Wine Description": "With deep plumby flavours and a palate that is medium-bodied, supple and easy drinking, with abundant red fruits and juicy tannins, nothing will pair your chocolate pudding quite like it. ",
+        "Beer": "Brown ale",
+        "Beer Description": "A dark-colored, medium-to-low-bodied brew that is typically more malt than hops, giving it a flavor variously described as toasty, chocolatey, caramel-like, or toffeeish.",
+        "Soft Drink": "Milk",
+        "Soft Drink Description": "Be it oat, almond or cow, you're not going to find a better vessel to sail your tasty chocolate to Flavour City."
+    },
+    {
+        "Flavour": "Chocolate (unsweetened)",
+        "See": "dark chocolate, cocoa nibs, cocoa powder, chocolate dry rub on beef",
+        "Wine": "Portuguese Tawny Port",
+        "Wine Description": "A fortified wine full of decadent flavors like caramel, peanut brittle, apricot, plum, raisin, and walnut. All the perfect partner for the deepest, darkest chocolate-based meals!",
+        "Beer": "East Coast IPA",
+        "Beer Description": "More floral than their fruity western counterpart, this light and springy ale will offset the bitterness of the chocolate beautifully.",
+        "Soft Drink": "Elderflower Soda",
+        "Soft Drink Description": "Bright, spring and floral. Just the thing to offset your deep, dark chocolate - and making it as easy as possible for you to eat more and more and more\u2026"
+    },
+    {
+        "Flavour": "Chocolate (white)",
+        "See": "white chocolate cookies, white chocolate cheesecake",
+        "Wine": "Australian Chardonnay",
+        "Wine Description": "Grilled peach, honey and butter, cashews and cedar oak. The only this missing in the flavour line-up is white chocolate. But you'll sort that, won't you!",
+        "Beer": "Imperial Milk Stout",
+        "Beer Description": "Although shockingly strong (don't get caught out) the sweet, syruppy and often coffee-like notes found in these beers are the ultimate partner in crime for your white chocolate.",
+        "Soft Drink": "Black Americano",
+        "Soft Drink Description": "Hot or Cold, you'll find fewer greater pleasures than that of a black coffee with a big hit of white chocolate."
+    },
+    {
+        "Flavour": "Coffee (sweetened)",
+        "See": "coffee and walnut cake, espresso cr\u00e8me brulee",
+        "Wine": "French Champagne",
+        "Wine Description": "Dry, crisp and moreish. What could be better with a coffee-forward sweet treat?",
+        "Beer": "Stout",
+        "Beer Description": "The smoother the better. You'll not find a better beer buddy when it comes to pairing this particular flavour.",
+        "Soft Drink": "Hot Honey and Turmeric",
+        "Soft Drink Description": "Easy to rustle up but unbelievably deliciously smooth, with a small spice hit from the Turmeric. Just the thing to wash that coffee sweet treat down."
+    },
+    {
+        "Flavour": "Coffee (unsweetened)",
+        "See": "BBQ dry rub",
+        "Wine": "French Merlot",
+        "Wine Description": "With deep plumby flavours and a palate that is medium-bodied, supple and easy drinking, with abundant red fruits and juicy tannins, nothing will pair your culinary coffee creation quite like it. ",
+        "Beer": "East Coast IPA",
+        "Beer Description": "More floral than their fruity western counterpart, this light and springy ale will offset the bitterness of the chocolate beautifully.",
+        "Soft Drink": "Elderflower Soda",
+        "Soft Drink Description": "Bright, spring and floral. Just the thing to offset your deep, dark chocolate - and making it as easy as possible for you to eat more and more and more\u2026"
+    },
+    {
+        "Flavour": "Peanut",
+        "See": "satay, peanut butter",
+        "Wine": "American Zinfandel",
+        "Wine Description": "Whether it's a simple slice of toast, or a full satay bonanza, sweet and fruity rose will acompany your peanuts beautifully.",
+        "Beer": "Red Ale",
+        "Beer Description": "Crisp yet deep, often with mild floral notes. A fantastic partner for your peanut feast!",
+        "Soft Drink": "Cloudy apple juice",
+        "Soft Drink Description": "Smooth and mildly acidic, a fantastic partner for anything peanutty!"
+    },
+    {
+        "Flavour": "Chicken",
+        "See": "chicken caeser salad, simple fried chicken",
+        "Wine": "TBC",
+        "Wine Description": "Content coming soon.",
+        "Beer": "TBC",
+        "Beer Description": "Content coming soon.",
+        "Soft Drink": "TBC",
+        "Soft Drink Description": "Content coming soon."
+    },
+    {
+        "Flavour": "Pork",
+        "See": "pork crackling, pork belly, pork chops",
+        "Wine": "TBC",
+        "Wine Description": "Content coming soon.",
+        "Beer": "TBC",
+        "Beer Description": "Content coming soon.",
+        "Soft Drink": "TBC",
+        "Soft Drink Description": "Content coming soon."
+    },
+    {
+        "Flavour": "Black Pudding",
+        "See": "fry up, sausage roll, black pudding hash",
+        "Wine": "TBC",
+        "Wine Description": "Content coming soon.",
+        "Beer": "TBC",
+        "Beer Description": "Content coming soon.",
+        "Soft Drink": "TBC",
+        "Soft Drink Description": "Content coming soon."
+    },
+    {
+        "Flavour": "Liver",
+        "See": "liver and onions, liver tartare, chicken liver pate",
+        "Wine": "TBC",
+        "Wine Description": "Content coming soon.",
+        "Beer": "TBC",
+        "Beer Description": "Content coming soon.",
+        "Soft Drink": "TBC",
+        "Soft Drink Description": "Content coming soon."
+    },
+    {
+        "Flavour": "Beef",
+        "See": "sirloin steak, steak tartare, beef burger",
+        "Wine": "TBC",
+        "Wine Description": "Content coming soon.",
+        "Beer": "TBC",
+        "Beer Description": "Content coming soon.",
+        "Soft Drink": "TBC",
+        "Soft Drink Description": "Content coming soon."
+    },
+    {
+        "Flavour": "Lamb",
+        "See": "hot pot, roast leg of lamb, grilled lamb chops",
+        "Wine": "TBC",
+        "Wine Description": "Content coming soon.",
+        "Beer": "TBC",
+        "Beer Description": "Content coming soon.",
+        "Soft Drink": "TBC",
+        "Soft Drink Description": "Content coming soon."
+    },
+    {
+        "Flavour": "Cheese - Goat's Cheese",
+        "See": "goat's cheese and red onion tart, goats cheese croquettes, one pot goats cheese pasta",
+        "Wine": "TBC",
+        "Wine Description": "Content coming soon.",
+        "Beer": "TBC",
+        "Beer Description": "Content coming soon.",
+        "Soft Drink": "TBC",
+        "Soft Drink Description": "Content coming soon."
+    },
+    {
+        "Flavour": "Cheese - Washed Rind Cheese",
+        "See": "Stinking Bishop gratin, cheese and mushroom linguine, cheese on walnut bread",
+        "Wine": "TBC",
+        "Wine Description": "Content coming soon.",
+        "Beer": "TBC",
+        "Beer Description": "Content coming soon.",
+        "Soft Drink": "TBC",
+        "Soft Drink Description": "Content coming soon."
+    },
+    {
+        "Flavour": "Cheese - Blue Cheese",
+        "See": "baked figs with blue, roquefort salad, spinach and blue cheese pizza",
+        "Wine": "TBC",
+        "Wine Description": "Content coming soon.",
+        "Beer": "TBC",
+        "Beer Description": "Content coming soon.",
+        "Soft Drink": "TBC",
+        "Soft Drink Description": "Content coming soon."
+    },
+    {
+        "Flavour": "Cheese - Hard Cheese",
+        "See": "cheddar souffles, parmesean crisps, gruyere topped French onion soup",
+        "Wine": "TBC",
+        "Wine Description": "Content coming soon.",
+        "Beer": "TBC",
+        "Beer Description": "Content coming soon.",
+        "Soft Drink": "TBC",
+        "Soft Drink Description": "Content coming soon."
+    },
+    {
+        "Flavour": "Cheese - Soft Cheese",
+        "See": "camembert, brie en croute, feta and plantain taco",
+        "Wine": "TBC",
+        "Wine Description": "Content coming soon.",
+        "Beer": "TBC",
+        "Beer Description": "Content coming soon.",
+        "Soft Drink": "TBC",
+        "Soft Drink Description": "Content coming soon."
+    },
+    {
+        "Flavour": "Mushroom",
+        "See": "mushroom soup, portobello mushroom sandwich, mushroom gnocchi, mushroom bolognese",
+        "Wine": "TBC",
+        "Wine Description": "Content coming soon.",
+        "Beer": "TBC",
+        "Beer Description": "Content coming soon.",
+        "Soft Drink": "TBC",
+        "Soft Drink Description": "Content coming soon."
+    },
+    {
+        "Flavour": "Aubergine",
+        "See": "babaganoush, aubergine tagine, grilled aubergine tapa",
+        "Wine": "TBC",
+        "Wine Description": "Content coming soon.",
+        "Beer": "TBC",
+        "Beer Description": "Content coming soon.",
+        "Soft Drink": "TBC",
+        "Soft Drink Description": "Content coming soon."
+    },
+    {
+        "Flavour": "Cumin",
+        "See": "cumin and coriander black beans, cumin scrambled eggs, cumin beef burgers",
+        "Wine": "TBC",
+        "Wine Description": "Content coming soon.",
+        "Beer": "TBC",
+        "Beer Description": "Content coming soon.",
+        "Soft Drink": "TBC",
+        "Soft Drink Description": "Content coming soon."
+    },
+    {
+        "Flavour": "Beetroot",
+        "See": "beetroot hummus, beetroot carpacio, beetroot latkes",
+        "Wine": "TBC",
+        "Wine Description": "Content coming soon.",
+        "Beer": "TBC",
+        "Beer Description": "Content coming soon.",
+        "Soft Drink": "TBC",
+        "Soft Drink Description": "Content coming soon."
+    },
+    {
+        "Flavour": "Potato",
+        "See": "hasselbacks, salty frites, potato flatbread",
+        "Wine": "TBC",
+        "Wine Description": "Content coming soon.",
+        "Beer": "TBC",
+        "Beer Description": "Content coming soon.",
+        "Soft Drink": "TBC",
+        "Soft Drink Description": "Content coming soon."
+    },
+    {
+        "Flavour": "Celery",
+        "See": "braised celery, celery sticks, celery salsa verde",
+        "Wine": "TBC",
+        "Wine Description": "Content coming soon.",
+        "Beer": "TBC",
+        "Beer Description": "Content coming soon.",
+        "Soft Drink": "TBC",
+        "Soft Drink Description": "Content coming soon."
+    },
+    {
+        "Flavour": "Watercress",
+        "See": "watercress mashed potato, pea and watercress pasta, watercress and bean salad",
+        "Wine": "TBC",
+        "Wine Description": "Content coming soon.",
+        "Beer": "TBC",
+        "Beer Description": "Content coming soon.",
+        "Soft Drink": "TBC",
+        "Soft Drink Description": "Content coming soon."
+    },
+    {
+        "Flavour": "Capar",
+        "See": "caper linguine, caper salad, caper focaccia",
+        "Wine": "TBC",
+        "Wine Description": "Content coming soon.",
+        "Beer": "TBC",
+        "Beer Description": "Content coming soon.",
+        "Soft Drink": "TBC",
+        "Soft Drink Description": "Content coming soon."
+    },
+    {
+        "Flavour": "Horseradish",
+        "See": "horseradish roast beef sandwich, horseradish baked potatoes, horseradish chicken thighs, horseradish humus",
+        "Wine": "TBC",
+        "Wine Description": "Content coming soon.",
+        "Beer": "TBC",
+        "Beer Description": "Content coming soon.",
+        "Soft Drink": "TBC",
+        "Soft Drink Description": "Content coming soon."
+    },
+    {
+        "Flavour": "Onion",
+        "See": "French onion soup, onion rings, onion bhaji",
+        "Wine": "TBC",
+        "Wine Description": "Content coming soon.",
+        "Beer": "TBC",
+        "Beer Description": "Content coming soon.",
+        "Soft Drink": "TBC",
+        "Soft Drink Description": "Content coming soon."
+    },
+    {
+        "Flavour": "Garlic",
+        "See": "garlic bread, garlic soup, roasted garlic chicken wings",
+        "Wine": "TBC",
+        "Wine Description": "Content coming soon.",
+        "Beer": "TBC",
+        "Beer Description": "Content coming soon.",
+        "Soft Drink": "TBC",
+        "Soft Drink Description": "Content coming soon."
+    },
+    {
+        "Flavour": "Truffle",
+        "See": "black truffle pasta, beef carpaccio with truffle oil, truffle honey glazed ham",
+        "Wine": "TBC",
+        "Wine Description": "Content coming soon.",
+        "Beer": "TBC",
+        "Beer Description": "Content coming soon.",
+        "Soft Drink": "TBC",
+        "Soft Drink Description": "Content coming soon."
+    },
+    {
+        "Flavour": "Cabbage (white)",
+        "See": "hispi cabbage, turmeric and coconut braised cabbage with chickpeas.",
+        "Wine": "TBC",
+        "Wine Description": "Content coming soon.",
+        "Beer": "TBC",
+        "Beer Description": "Content coming soon.",
+        "Soft Drink": "TBC",
+        "Soft Drink Description": "Content coming soon."
+    },
+    {
+        "Flavour": "Cabbage (red)",
+        "See": "braised red cabbage, red cabbage pork and apple pie, red cabbage soup",
+        "Wine": "TBC",
+        "Wine Description": "Content coming soon.",
+        "Beer": "TBC",
+        "Beer Description": "Content coming soon.",
+        "Soft Drink": "TBC",
+        "Soft Drink Description": "Content coming soon."
+    },
+    {
+        "Flavour": "Swede",
+        "See": "roasted swede wedges, swede gnocchi, neeps and tatties soup",
+        "Wine": "TBC",
+        "Wine Description": "Content coming soon.",
+        "Beer": "TBC",
+        "Beer Description": "Content coming soon.",
+        "Soft Drink": "TBC",
+        "Soft Drink Description": "Content coming soon."
+    },
+    {
+        "Flavour": "Cauliflower",
+        "See": "cauliflower cheese, buffalo cauliflower, Moroccan cauliflower with honey",
+        "Wine": "TBC",
+        "Wine Description": "Content coming soon.",
+        "Beer": "TBC",
+        "Beer Description": "Content coming soon.",
+        "Soft Drink": "TBC",
+        "Soft Drink Description": "Content coming soon."
+    },
+    {
+        "Flavour": "Broccoli",
+        "See": "broccoli and stilton soup, broccoli tots, broccoli stir fry",
+        "Wine": "TBC",
+        "Wine Description": "Content coming soon.",
+        "Beer": "TBC",
+        "Beer Description": "Content coming soon.",
+        "Soft Drink": "TBC",
+        "Soft Drink Description": "Content coming soon."
+    },
+    {
+        "Flavour": "Globe Artichoke",
+        "See": "spinach and artichoke dip, artichoke barigoule, leek and artichoke pie",
+        "Wine": "TBC",
+        "Wine Description": "Content coming soon.",
+        "Beer": "TBC",
+        "Beer Description": "Content coming soon.",
+        "Soft Drink": "TBC",
+        "Soft Drink Description": "Content coming soon."
+    },
+    {
+        "Flavour": "Asparagus",
+        "See": "cheesy garlic roasted asparagus, asparagus and new potato frittata, asparagus risotto",
+        "Wine": "TBC",
+        "Wine Description": "Content coming soon.",
+        "Beer": "TBC",
+        "Beer Description": "Content coming soon.",
+        "Soft Drink": "TBC",
+        "Soft Drink Description": "Content coming soon."
+    },
+    {
+        "Flavour": "Egg",
+        "See": "scotch quails egg, duck eggs benedict, cauliflower egg and potato curry",
+        "Wine": "TBC",
+        "Wine Description": "Content coming soon.",
+        "Beer": "TBC",
+        "Beer Description": "Content coming soon.",
+        "Soft Drink": "TBC",
+        "Soft Drink Description": "Content coming soon."
+    },
+    {
+        "Flavour": "Saffron",
+        "See": "saffron pistachio and white chocolate cookie, saffron risotto, buttery saffron potatoes",
+        "Wine": "TBC",
+        "Wine Description": "Content coming soon.",
+        "Beer": "TBC",
+        "Beer Description": "Content coming soon.",
+        "Soft Drink": "TBC",
+        "Soft Drink Description": "Content coming soon."
+    }
+]
